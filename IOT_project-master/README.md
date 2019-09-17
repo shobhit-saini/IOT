@@ -42,14 +42,6 @@ The subscriber get this data from mqtt borker and create a express server where 
 
 ```
 
-## Author
-
-👤 **Tatvam Dadheech, Rahul Kumar, Pullak Barik**
-
-* Github: [@Tatvam](https://github.com/Tatvam)
-* Github: [@Preetham](https://github.com/rk36)
-* Github: [@Pullak](https://github.com/TipsbyPullak)
-* Github: [@Rahul](https://github.com/methuku123)
 
 ## Show your support
 
